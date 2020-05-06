@@ -6,10 +6,10 @@ NSwag ofrece las siguientes capacidades:
 - Capacidad de usar la interfaz de usuario y el generador de Swagger.
 - Capacidad de generar código con flexibilidad.
 
-Con NSwag, no es necesario que exista una API; se pueden usar API de terceros que incluyan Swagger y que generen una implementación de cliente. NSwag permite acelerar el ciclo de desarrollo y adaptarse fácilmente a los cambios de API.
+Con NSwag, no es necesario que exista una API; se pueden usar API de terceros que incluyan Swagger y que generen una implementación de cliente. NSwag permite acelerar el ciclo de desarrollo y adaptarse fácilmente a los cambios de API. 
 
 ```
-Install-Package NSwag.AspNetCore -Version 13.1.6
+PM> Install-Package NSwag.AspNetCore -Version 13.1.6
 ```
 
 
